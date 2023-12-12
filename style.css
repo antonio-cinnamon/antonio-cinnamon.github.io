@@ -14,7 +14,7 @@
 }
 
 .auth0-lock.auth0-lock .auth0-lock-form .auth0-lock-alternative {
-    display: hidden;
+    display: none;
     margin-top: 20px;
     margin-bottom: 0;
 }
