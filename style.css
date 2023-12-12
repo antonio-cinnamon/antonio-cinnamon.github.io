@@ -12,3 +12,9 @@
     margin: 0 0 11px;
     vertical-align: middle;
 }
+
+.auth0-lock.auth0-lock .auth0-lock-form .auth0-lock-alternative {
+    display: hidden;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
